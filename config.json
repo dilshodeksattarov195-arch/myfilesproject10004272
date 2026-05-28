@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configsarse",
+        "uuid": 14721312,
+        "checksum": "te4yga"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
